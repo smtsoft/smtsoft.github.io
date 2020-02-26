@@ -9,3 +9,5 @@
 **swl3992**开发的Your Life,尽情期待
 
 [点此查看进度](https://www.luogu.com.cn/user/173918)
+
+[关于我们](https://smtsoft.github.io/about)
