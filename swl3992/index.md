@@ -11,6 +11,10 @@
 
 **关于慧软™，详情请看[这里](https://smtsoft.github.io)**
 
+[swl3992的洛谷首页](https://www.luogu.com.cn/user/173918)
+
+[swl3992的菜鸡个人网站](https://swl3992.github.io)
+
 
 本蒟蒻开发的是
 
@@ -34,9 +38,7 @@
 ## [Triangle▲](https://www.luogu.com.cn/user/165766)开发的[C++控制台U盘密码锁](https://www.luogu.com.cn/paste/upo18p8j)
 
 
-### 请注意！！！
 
-# [蒟蒻的菜鸡网站](https://swl3992.github.io)
 
 ### 本人是
 
