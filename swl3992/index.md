@@ -1,26 +1,26 @@
 
 ![](https://www.xht37.com/wp-content/uploads/2019/11/1572969040_781823.png)
 
-# $\Huge\texttt{慧软公司}$
-# $\Huge\texttt{SMARTsoft}$
-# $\Huge\texttt{创始人！！！}$
+# 慧软公司
+# SMARTsoft
+# 创始人！！！
 
-# 慧软™ (SMARTsoft™）成立于2019/06/24，由[swl3992](https://www.luogu.com.cn/user/173918)和[Triangle▲](https://www.luogu.com.cn/user/165766)创立
+## 慧软™ (SMARTsoft™）成立于2019/06/24，由[swl3992](https://www.luogu.com.cn/user/173918)和[Triangle▲](https://www.luogu.com.cn/user/165766)创立
 
-# 注意：以下所有内容有可能长时间未更新且不符合当前情况
+### 注意：以下所有内容有可能长时间未更新且不符合当前情况
 
-关于慧软™，详情请看[这里](https://smtsoft.github.io)
+**关于慧软™，详情请看[这里](https://smtsoft.github.io)**
 
 
 本蒟蒻开发的是
 
-# $\Huge\texttt{Your Life}$
+# Your Life
 
 目前正在开发中...
 
-# 敬请期待
+## 敬请期待
 
-# 注：Your Life为通用 Windows 平台 (UWP)应用
+## 注：Your Life为通用 Windows 平台 (UWP)应用
 
 
 ------------
@@ -29,26 +29,26 @@
 
 ![](https://app.xuty.tk/static/upload/1_50d3ff385f3abb36ae3d99de4cc57d1f.gif)
 
-# 注：：：泡椒风爪锁已经暂停开发，恢复时间待定
+### 注：：：泡椒风爪锁已经暂停开发，恢复时间待定
 
-# [$Triangle$▲](https://www.luogu.com.cn/user/165766)开发的[C++控制台U盘密码锁](https://www.luogu.com.cn/paste/upo18p8j)
+## [Triangle▲](https://www.luogu.com.cn/user/165766)开发的[C++控制台U盘密码锁](https://www.luogu.com.cn/paste/upo18p8j)
 
 
-# 请注意！！！
+### 请注意！！！
 
-# [ $\Huge\texttt{蒟蒻的菜鸡网站}$](https://swl3992.github.io)
+# [蒟蒻的菜鸡网站](https://swl3992.github.io)
 
-# $\Huge\texttt{本人是}$
+### 本人是
 
-# [ $\Huge\texttt{蒟蒻}$](https://baike.baidu.com/item/%E8%92%9F%E8%92%BB/1145355?fr=aladdin)
+## [蒟蒻](https://baike.baidu.com/item/%E8%92%9F%E8%92%BB/1145355?fr=aladdin)
 
 **&&**
 
-# $\Huge\texttt{慧软吉祥物 DA✩ZE}$
+## 慧软吉祥物 DA✩ZE
 
-# [ $\Huge\texttt{这是本人一直很想吃的蒟蒻果冻}$](https://baike.baidu.com/item/%E8%92%9F%E8%92%BB%E6%9E%9C%E5%86%BB/10751637?fr=aladdin)
+### [这是本人一直很想吃的蒟蒻果冻](https://baike.baidu.com/item/%E8%92%9F%E8%92%BB%E6%9E%9C%E5%86%BB/10751637?fr=aladdin)
 
-~~滥用Latex~~
+~~滥用Markdown~~
 
 ![](http://rg.noi.cn/resource/images/title.jpg)
 
@@ -72,7 +72,7 @@
 
 
 
-# [ $\Huge\texttt{大事祭}$](https://www.luogu.org/paste/q8p0uvyu)
+# [大事祭](https://www.luogu.org/paste/q8p0uvyu)
 
 洛谷验证码：![](https://www.luogu.com.cn/api/verify/captcha?_t=1579512666954)
 刷新一下试试
