@@ -1,4 +1,4 @@
-#我,慧软TM公司创始人
+# 我,慧软TM公司创始人
 
 慧软TM(SMARTsoft™）公司成立于2019/6/24,由[我](https://smtsoft.github.io/Triangle▲)和一个[人](https://smtsoft.github.io/swl3992)创立
 
